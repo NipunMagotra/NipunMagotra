@@ -18,7 +18,7 @@
 <br>
 
 - A passionate Self-taught Front-end developer
-- Currently learning backend Development by Self
+- Currently learning backend Development 
 - Personal website [link] 
 - I’m currently open for an Internship
 
